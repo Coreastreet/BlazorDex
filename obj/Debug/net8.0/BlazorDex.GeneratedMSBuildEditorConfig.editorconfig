@@ -1,0 +1,107 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorDex
+build_property.RootNamespace = BlazorDex
+build_property.ProjectDir = /Users/justinye/NetProjects/BlazorDex/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/justinye/NetProjects/BlazorDex
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/justinye/NetProjects/BlazorDex/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Account/AccountPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvQWNjb3VudC9BY2NvdW50UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Account/AddressList.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvQWNjb3VudC9BZGRyZXNzTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Account/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvQWNjb3VudC9EZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Account/Summary.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvQWNjb3VudC9TdW1tYXJ5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Home/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9Ib21lUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Home/TrailCard.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvSG9tZS9UcmFpbENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Product/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvUHJvZHVjdC9EZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Product/ProductPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvUHJvZHVjdC9Qcm9kdWN0UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Product/StockAndPrice.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvUHJvZHVjdC9TdG9ja0FuZFByaWNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/ProductList/ItemSummary.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvUHJvZHVjdExpc3QvSXRlbVN1bW1hcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/ProductList/ProductListPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvUHJvZHVjdExpc3QvUHJvZHVjdExpc3RQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Shared/Button.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvU2hhcmVkL0J1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Shared/Table.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvU2hhcmVkL1RhYmxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/ShoppingBasket/DeliveryOptions.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvU2hvcHBpbmdCYXNrZXQvRGVsaXZlcnlPcHRpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/ShoppingBasket/ItemSummary.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvU2hvcHBpbmdCYXNrZXQvSXRlbVN1bW1hcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/ShoppingBasket/PaymentOptions.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvU2hvcHBpbmdCYXNrZXQvUGF5bWVudE9wdGlvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/ShoppingBasket/ShoppingBasketPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvU2hvcHBpbmdCYXNrZXQvU2hvcHBpbmdCYXNrZXRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-sfucmr92y7
+
+[/Users/justinye/NetProjects/BlazorDex/Features/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXMvTGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d1w9x209x2
